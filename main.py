@@ -23,9 +23,6 @@ You can find some of the apps I have built in Python below. Feel free to contact
 
 df = pandas.read_csv("data.csv", sep=";")
 
-with open("data.csv") as file:
-    content=file.read()
-
 st.subheader(content_2)
 
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
