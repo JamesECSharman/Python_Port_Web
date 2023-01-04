@@ -1,4 +1,3 @@
-import os
 import smtplib, ssl
 from variables import os
 
