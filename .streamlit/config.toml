@@ -3,7 +3,8 @@ port = 80
 
 [theme]
 base="light"
-primaryColor="#3c99ec"
-backgroundColor="#bdd9da"
-secondaryBackgroundColor="#d4d5d8"
+primaryColor="#47c1de"
+secondaryBackgroundColor="#c5cee0"
+textColor="#16424e"
 font="monospace"
+
